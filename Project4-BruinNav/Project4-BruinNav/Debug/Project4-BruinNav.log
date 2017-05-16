@@ -1,0 +1,7 @@
+﻿  AttractionMapper.cpp
+c:\computer science\computer science y1q2\cs32\project4-streetnav\project4-bruinnav\project4-bruinnav\attractionmapper.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\computer science\computer science y1q2\cs32\project4-streetnav\project4-bruinnav\project4-bruinnav\attractionmapper.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\computer science\computer science y1q2\cs32\project4-streetnav\project4-bruinnav\project4-bruinnav\attractionmapper.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\computer science\computer science y1q2\cs32\project4-streetnav\project4-bruinnav\project4-bruinnav\attractionmapper.cpp(53): warning C4018: '<': signed/unsigned mismatch
+  Project4-BruinNav.vcxproj -> C:\Computer Science\Computer Science Y1Q2\CS32\Project4-StreetNav\Project4-BruinNav\Debug\Project4-BruinNav.exe
+  Project4-BruinNav.vcxproj -> C:\Computer Science\Computer Science Y1Q2\CS32\Project4-StreetNav\Project4-BruinNav\Debug\Project4-BruinNav.pdb (Partial PDB)
